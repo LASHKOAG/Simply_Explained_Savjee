@@ -1,0 +1,12 @@
+tsc --init
+->tsconfig.json
+
+ctrl + shift + p
+->task run
+->tsconfig.json
+
+tsconfig.json:
+-p . compile all .ts files
+->ctrl + shift + B  (compile all files)
+
+чтобы был watch надо ctrl + shift + B  при watchconfig
